@@ -31,3 +31,4 @@ The web server will be started, and the JavaScript code in the `src/scripts` dir
 1. You should see the following output in the console.
 
 ![sample boilerplate output](./browserify-boilerplate-output.png)
+# jp-contacts
